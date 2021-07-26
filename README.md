@@ -12,6 +12,7 @@
 3. Data validation: the validation test is to verify if the sum of all the countries values of a region is the same as the total value of that region. 
 
 ![Validation criteria](https://user-images.githubusercontent.com/87708237/127041123-e84fbbc8-9a91-4a3d-8e17-d7bc8ffa1753.jpg)
+(Validation test)
 
 4. Export to Excel file: the code was written with google colab. The image below shows where the Excel file can be downloaded. 
 
